@@ -1,7 +1,7 @@
 # ARM_firmware Project
 > C++를 이용하여 콘솔환경 관리프로그램을 제작한 프로젝트입니다.
 
-![1](https://github.com/ksj32/Console-Project/assets/77198732/9fad0ba5-7c83-4f40-a13e-d6d9e48324a7) {: width="100" height="100"}
+![1](https://github.com/ksj32/Console-Project/assets/77198732/9fad0ba5-7c83-4f40-a13e-d6d9e48324a7){: width="100" height="100"}
 
 ## 프로젝트 설명
 

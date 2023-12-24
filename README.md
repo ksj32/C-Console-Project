@@ -27,12 +27,12 @@ C++로 제작한 콘솔 프로젝트입니다.
 
 ## 실행 방법
 
-- dev c++에서 컴파일 후 실행
+- Visual Studio C++ 2010에서 컴파일 후 실행
 
 ## 개발 환경
 
 - 사용 OS : Windows 7
-- 개발 툴 : DEV C++
+- 개발 툴 : Visual Studio C++ 2010
 
 ## 정보
 

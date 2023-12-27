@@ -32,7 +32,7 @@ C++로 제작한 콘솔 프로젝트입니다.
 ## 개발 환경
 
 - 사용 OS : Windows 7
-- 개발 툴 : Visual Studio C++ 2010
+- 개발 Tool : Visual Studio C++ 2010
 
 ## 정보
 

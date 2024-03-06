@@ -1,5 +1,5 @@
 # C++ Project
-> C++로 제작한 콘솔 프로젝트입니다.
+C++로 제작한 콘솔 프로젝트입니다.
 
 ![크기변환 1](https://github.com/ksj32/Console-Project/assets/77198732/aa8c4ed3-5f84-468c-9d78-1baced6fdfed)
 

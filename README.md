@@ -33,7 +33,7 @@ C++를 이용하여 콘솔환경 관리프로그램을 제작한 프로젝트입
 ## 개발 환경
 
 - 사용 OS : Windows 7
-- 개발 Tool : Visual Studio C++ 2010
+- 개발 환경 : Visual Studio C++ 2010
 
 ## 정보
 

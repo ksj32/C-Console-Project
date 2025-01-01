@@ -1,7 +1,7 @@
 # C++ Project
 C++로 제작한 콘솔 프로젝트.
 
-<img src="https://github.com/user-attachments/assets/123deeca-6b6c-4aaa-b05f-fb9a60ef789b" width="70%">
+<img src="https://github.com/user-attachments/assets/123deeca-6b6c-4aaa-b05f-fb9a60ef789b" width="80%">
 
 ## 프로젝트 설명
 
